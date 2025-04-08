@@ -40643,7 +40643,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &675042657
 Transform:
   m_ObjectHideFlags: 0
@@ -56980,7 +56980,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &965210413
 Transform:
   m_ObjectHideFlags: 0
@@ -63800,7 +63800,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1092966536
 Transform:
   m_ObjectHideFlags: 0
@@ -105918,6 +105918,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2434690480137928085, guid: 00ac79d1f77e0a94592bcca6448c52bf, type: 3}
+      propertyPath: instanceId
+      value: 0dd73f53-07f0-4c2f-a156-69219e92ee73
+      objectReference: {fileID: 0}
     - target: {fileID: 2859214352783339771, guid: 00ac79d1f77e0a94592bcca6448c52bf, type: 3}
       propertyPath: _boundsCollider
       value: 
@@ -105981,6 +105985,10 @@ PrefabInstance:
     - target: {fileID: 5916743756655515977, guid: 00ac79d1f77e0a94592bcca6448c52bf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8551796042740114427, guid: 00ac79d1f77e0a94592bcca6448c52bf, type: 3}
+      propertyPath: instanceId
+      value: e41a55df-4051-406a-ad4e-6601b7f545e4
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 111681976944336505, guid: 00ac79d1f77e0a94592bcca6448c52bf, type: 3}
@@ -110086,7 +110094,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1654508158
 Transform:
   m_ObjectHideFlags: 0
